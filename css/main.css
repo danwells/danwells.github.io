@@ -415,6 +415,7 @@ a:visited { color: #205caa; }
 }
 
 .portfolio h3 {
+	background: #ececec;
 	text-align: center;
 }
 
@@ -422,7 +423,7 @@ a:visited { color: #205caa; }
 	width: 100%;
 }
 
-.item_visual img:hover {
+.item_visual a img:hover {
 	opacity: 0.8;
 	border: solid 1px #205caa;
 }
