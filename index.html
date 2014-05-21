@@ -1,20 +1,30 @@
 ---
-layout: default
+layout: page
+title: My Projects
 ---
 
 <div class="home">
 
-  <h1>Posts</h1>
-
-  <ul class="posts">
-    {% for post in site.posts %}
-      <li>
-        <span class="post-date">{{ post.date | date: "%b %-d, %Y" }}</span>
-        <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-      </li>
-    {% endfor %}
-  </ul>
-
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+	<h2>Websites</h2>
+		<div class="web_apps">
+			<div class="proj_item_container clearfix">
+				<h3>OmaWho</h3>
+				<div class="item_visual"></div>
+				<div class="item_desc"></div>
+			</div>
+			<div class="proj_item_container clearfix">
+				<h3>GAMEZelp</h3>
+				<div class="item_visual"></div>
+				<div class="item_desc"></div>
+			</div>
+		</div>
+		
+	<h2>Mobile Apps</h2>
+		<div class="mobile_apps">
+			<div class="wrap">
+				<div class="app_outer">FunTreks Trail Guide</div>
+			</div>
+		</div>
 
 </div>
+
