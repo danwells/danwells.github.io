@@ -8,6 +8,6 @@ username: danwells
 twittername: dwellsusnret
 
 # Build settings
-markdown: kramdown
+markdown: redcarpet
 # pygments: true
 highlighter: pygments
