@@ -1,6 +1,6 @@
-# Moved my portfolio page to a separate github project page
+## My portfolio page:
 
-[My portfolio page >>](http://danwells.github.io/portfolio-jekyll)
+###[My portfolio page >>](http://danwells.github.io/portfolio-jekyll)
 
 
 ## About me
