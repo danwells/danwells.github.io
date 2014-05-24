@@ -3,7 +3,8 @@ title: Daniel Wells
 email: danielwells.usnret@gmail.com
 username: danwells 
 twittername: dwellsusnret
+description: "Dan Wells GitHub pages"
 
 # Build settings
-markdown: redcarpet
-highlighter: pygments
+markdown: kramdown
+permalink: pretty
